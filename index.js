@@ -35,5 +35,5 @@ function preserveDecimal(n){
 }
 
 function preserveDecimal(n){
-  return parseFloat('isNaN', 10)
+  return parseInt('nonsense!', 10)
 }
